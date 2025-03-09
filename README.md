@@ -38,14 +38,14 @@ Ministry of Defence
 
 ## Technology Stack
 
-NLP & AI Models
-    Speech-to-Text & Text Analysis
-    Secure Cloud Database
-    User-Friendly Web & Mobile Interface
+NLP & AI Models <br>
+Speech-to-Text & Text Analysis        
+Secure Cloud Database   
+User-Friendly Web & Mobile Interface
 
 ## Dependencies
 
-    Mapping service- 5 days
-    Data collection- 15 days
-    budget- rs.3,50,000 - 5,00,000
+Mapping service- 5 days <br>
+Data collection- 15 day <br>
+budget- rs.3,50,000 - 5,00,000
   

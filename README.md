@@ -27,7 +27,8 @@ Ministry of Defence
 
 ## Proposed Solution / Architecture Diagram
 
-![Screenshot 2025-03-08 050237](https://github.com/user-attachments/assets/f8e712f4-0178-4114-bb4c-e2f49e5babf0)
+![Screenshot 2025-03-09 114245](https://github.com/user-attachments/assets/b1a04366-2cd6-4c75-a3c3-8ed273f9d4f1)
+
 
 
 
@@ -41,7 +42,9 @@ Ministry of Defence
 NLP & AI Models <br>
 Speech-to-Text & Text Analysis        
 Secure Cloud Database   
-User-Friendly Web & Mobile Interface
+User-Friendly Web & Mobile Interface <br>
+Frontend: React, HTML5, CSS3, WebRTC. <br>
+Backend: Node.js with Express.js, PostgreSQL
 
 ## Dependencies
 
